@@ -1,1 +1,2 @@
-# Amazon_customer_satisfaction_using_Pyspark
+# Customer-Satisfaction-across-Amazon-categories
+Customer Satisfaction across Amazon categories using Apache Spark
